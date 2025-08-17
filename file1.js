@@ -7,3 +7,4 @@ console.log('sumit')
 console.log('pathak')
 console.log('dwivedi')
 console.log(a-b);
+console.log(a*b);
